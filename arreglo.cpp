@@ -13,7 +13,7 @@ int arr[5]={1,2,3,4,5};
 for(int i=0; i<5;i++){
 	cout<<arr[i];
 }
-cout<<endl;
+cout<<endl; editando nuevamente editando nuevamenteeditando nuevamenteeditando nuevamente
 int i=0;
 do{
 	cout<<arr[i];

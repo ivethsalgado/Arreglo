@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
-void arreglo1();
+void arreglo1();// editando codigo
 int arr[5];
-int main(){
-	arreglo1();
+int main(){// editando codigo
+	arreglo1();// editando codigo
 	
-	return 0;
+	return 0;// editando codigo
 }
 void arreglo1(){
 int arr[5]={1,2,3,4,5};

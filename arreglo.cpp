@@ -3,6 +3,24 @@ using namespace std;
 void arreglo1();// editando codigo
 int arr[5];
 int main(){// editando codigo
+	
+	ediatando 
+		editando
+		editandoediatando 
+		editando
+		editandoediatando 
+		editando
+		editandoediatando 
+		editando
+		editandoediatando 
+		editando
+		editandoediatando 
+		editando
+		editandoediatando 
+		editando
+		editandoediatando 
+		editando
+		editando
 	arreglo1();// editando codigo
 	
 	return 0;// editando codigo
